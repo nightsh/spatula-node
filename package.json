@@ -1,0 +1,14 @@
+{
+  "name": "spatula-node",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "server.js",
+  "author": "Victor Nițu <victor@thesponge.eu>",
+  "dependencies": {
+    "babel": "^5.8.29",
+    "express": "latest",
+    "noodlejs": "^0.3.2",
+    "request": "latest",
+    "x-ray": "^2.0.2"
+  }
+}
